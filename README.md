@@ -44,3 +44,7 @@
 17. to add redirects, run `npm run shorten https://youtube.com youtube` which will redirect `chz.com/youtube` to `https://youtube.com` (example)
 
 **NOTE:** This will automatically deploy your site in netlify by committing and pushing to github, so there's no manual intervention. It will also copy the link to your clipboard, so you can enter into your browser
+
+---
+## VIDEO WALKTHROUGH
+[https://youtu.be/HL6paXyx6hM](https://youtu.be/HL6paXyx6hM)
