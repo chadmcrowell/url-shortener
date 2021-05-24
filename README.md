@@ -37,7 +37,7 @@
   "shorten": "netlify-shortener"
   },
 ```
-13. add `npm_modules` to your git ignore (`echo "npm_modules" > .gitignore`)
+13. add `node_modules` to your git ignore (`echo "node_modules" > .gitignore`)
 14. add, commit and push changes to your github repo
 15. run `npm run shorten` 
 16. go to `chz.com/foo` to test (from example above)
